@@ -85,8 +85,12 @@ tr:hover {
 }
 .main figure{
 	float: right;
-	margin: 15px 0 20px 0;
-	width: 30%;
+	margin: 15px 5px 20px 5px;
+	width: 26%;
+	padding: 10px;
+	box-shadow: 0px 0px 5px #222222;
+	border-bottom: 1px solid #244B70;
+	border-radius: 20px;
 
 }
 figure img{
